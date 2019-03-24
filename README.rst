@@ -11,7 +11,7 @@ Relies on current trunk of node.js for the dgram library.
 
 Install using npm
 
-npm install node-osc
+npm install thakyuu/node-osc
 
 Example
 -------
